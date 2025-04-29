@@ -1,5 +1,5 @@
 Warp drive equipped ultralight interstellar research probes.
-- Uncrewed X, Y, and I variants rigged with shields and radiators
+- Uncrewed Warp Probe X, Y, and I variants rigged with shields and radiators
 - Experimental KiloWarp Probe with 1000x warp drive power
 
 Specifications:
@@ -25,3 +25,5 @@ KiloWarp Probe
 
 Build spacecraft with the "Warp Research" Pack and the "Uncrewed" and "Experimental" Factions.
 Created using the online spacecraft editor. Inspired by the SpaceEngine SHW Corp Probe and Drone.
+
+https://github.com/sandertyu/warp-research-probes/
