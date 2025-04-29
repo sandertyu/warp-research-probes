@@ -1,4 +1,4 @@
-Warp drive equipped ultralight interstellar research probes.
+Warp drive equipped, ultralight, interstellar research probes.
 - Uncrewed Warp Probe X, Y, and I variants rigged with shields and radiators
 - Experimental KiloWarp Probe with 1000x warp drive power
 
@@ -23,7 +23,10 @@ KiloWarp Probe
 - Retrograde Fusion Engine: 200g
 - Warp Boost Exponent: 18
 
-Build spacecraft with the "Warp Research" Pack and the "Uncrewed" and "Experimental" Factions.
-Created using the online spacecraft editor. Inspired by the SpaceEngine SHW Corp Probe and Drone.
+Build spacecraft with "Warp Research" Pack and "Uncrewed" and "Experimental" Factions.
+Created using the online spacecraft editor. Inspired by SpaceEngine SHW Corp Probe and Drone.
+
+---Changelog---
+- v1.0 Initial release.
 
 https://github.com/sandertyu/warp-research-probes/
